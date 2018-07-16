@@ -1,0 +1,6 @@
+C:\Users\conne\source\repos\EconomyGambling\EconomyGambling\bin\Release\EconomyGambling.dll
+C:\Users\conne\source\repos\EconomyGambling\EconomyGambling\bin\Release\EconomyGambling.pdb
+C:\Users\conne\source\repos\EconomyGambling\EconomyGambling\obj\Release\EconomyGambling.csprojAssemblyReference.cache
+C:\Users\conne\source\repos\EconomyGambling\EconomyGambling\obj\Release\EconomyGambling.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\EconomyGambling\EconomyGambling\obj\Release\EconomyGambling.dll
+C:\Users\conne\source\repos\EconomyGambling\EconomyGambling\obj\Release\EconomyGambling.pdb
